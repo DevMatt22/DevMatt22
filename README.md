@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevMatt22
 - 👀 I’m interested in video game and web development
-- 🌱 I’m currently learning C++, C#, JAVA, Python
+- 🌱 I’m currently learning C++, C#, JAVA, JavaScript
 - 📫 How to contact me : 
   - Discord : DevMatt#8440
   - LinkedIn : https://www.linkedin.com/in/matthieu-martin-b6113517a/ 
